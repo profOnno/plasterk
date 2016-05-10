@@ -1,0 +1,15 @@
+{
+  "name": "sterkserver",
+  "version": "1.0.0",
+  "description": "server for plasterk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Menno Vossen <menno.vossen@kuopzi.nl> (https://github.com/profOnno)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
